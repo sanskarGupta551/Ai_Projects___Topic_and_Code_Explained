@@ -32,7 +32,7 @@
 
 * 
 
-1. [NLP___GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/NLP___GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis)
+1. [GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis/GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis.ipynb)
 
 * 
 
@@ -40,11 +40,13 @@
 
 * 
 
-3. [NLP___Prompt_to_Plot_Summary_Generator](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/NLP___Prompt_to_Plot_Summary_Generator)
+3. [Prompt_to_Synopsis_Generator_(using_Transfer_Learning)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Prompt_to_Plot_Summary_Generator/Prompt_to_Synopsis_Generator_(using_Transfer_Learning).ipynb)
 
 * 
 
-4. [NLP___Tweets_Sentiment_Ananlysis_with_3_Neural_Networks](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/NLP___Tweets_Sentiment_Ananlysis_with_3_Neural_Networks)
+4. [Tweets_Sentiment_Analysis_with_3_Neural_Network](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Tweets_Sentiment_Ananlysis_with_3_Neural_Networks/Tweets_Sentiment_Analysis_with_3_Neural_Network.ipynb)
+
+* 
 
 ## C. Other Notebooks
 
@@ -88,17 +90,5 @@
 
 6. [Upcoming_Projects/Portfolio_project___Ai_Comic_Generator](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Portfolio_project___Ai_Comic_Generator)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+* 
 
