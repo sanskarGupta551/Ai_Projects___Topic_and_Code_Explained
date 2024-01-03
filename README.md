@@ -90,7 +90,7 @@
 
 * 
 
-6. [COmputer_Vision___Ai_Comic_Generator](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Portfolio_project___Ai_Comic_Generator)
+6. [Computer_Vision___Ai_Comic_Generator](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Portfolio_project___Ai_Comic_Generator)
 
 * 
 
