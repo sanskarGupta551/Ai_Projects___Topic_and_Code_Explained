@@ -54,15 +54,15 @@
 
 * 
 
-0. [Other_Notebooks/0_AutoML___A_Brief_Introduction.ipynb](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/0_AutoML___A_Brief_Introduction.ipynb)
+1. [Ai_Imagining_Stories_from_Images](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/Ai_Imagining_Stories_from_Images.ipynb)
 
 * 
 
-1. [Other_Notebooks/1_Ai_Imagining_Stories_from_Images.ipynb](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/1_Ai_Imagining_Stories_from_Images.ipynb)
+2. [Ai_Long_form_Story_Generator_with_Varied_Context](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/Ai_Long_form_Story_Generator_with_Varied_Context.ipynb)
 
 * 
 
-2. [Other_Notebooks/2_Ai_Long_form_Story_Generator_with_Varied_Context.ipynb](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/2_Ai_Long_form_Story_Generator_with_Varied_Context.ipynb)
+3. [AutoML___A_Brief_Introduction](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/AutoML___A_Brief_Introduction.ipynb)
 
 * 
 
