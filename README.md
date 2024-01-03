@@ -4,7 +4,7 @@
 
 ## A. Computer Vision 
 
-1. [Face_Mask_Detection_using_Transfer_Learning](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Face_Mask_Detection_using_Transfer_Learning/Face_Mask_Detection_using_Transfer_Learning.ipynb)
+1. [Face_Mask_Detection_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Face_Mask_Detection_with_VGG16/Face_Mask_Detection_with_VGG16.ipynb)
 
 * 
 
@@ -12,7 +12,7 @@
 
 * 
 
-3. [Fashion_MNIST_with_Deep_Learning](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Fashion_MNIST_with_Deep_Learning/Fashion_MNIST_with_Deep_Learning.ipynb)
+3. [Fashion_MNIST_with_CNN(s)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Fashion_MNIST_with_CNN(s)/Fashion_MNIST_with_CNN(s).ipynb)
 
 * 
 
@@ -20,7 +20,7 @@
 
 * 
 
-5. [Image_Captioning_with_Flickr30k](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Captioning_with_Flickr30k/Image_Captioning_with_Flickr30k.ipynb)
+5. [Image_Captioning_with_Flickr30k_and_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Captioning_with_Flickr30k_and_VGG16/Image_Captioning_with_Flickr30k_and_VGG16.ipynb)
 
 * 
 
