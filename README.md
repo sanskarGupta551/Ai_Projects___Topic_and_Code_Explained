@@ -38,7 +38,7 @@
 
 * 
 
-2. [NLP___Next_Word_Prediction](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/NLP___Next_Word_Prediction)
+2. [Next_Word_Prediction_with_Bidirectional_LSTM](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Next_Word_Prediction_with_Bidirectional_LSTM/Next_Word_Prediction_with_Bidirectional_LSTM.ipynb)
 
 * 
 
