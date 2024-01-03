@@ -74,7 +74,7 @@
 
 * 
 
-2. [Computer_Vision___Ingredient_to_Recipe_Search_Engine](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/(Working)Computer_Vision___Ingredient_to_Recipe_Search_Engine)
+2. [Computer_Vision___Ingredient_to_Recipe_Search_Engine](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ingredient_to_Recipe_Search_Engine)
 
 * 
 
