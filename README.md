@@ -4,7 +4,9 @@
 
 ## A. Computer Vision 
 
-1. [Face_Mask_Detection_using_Transfer_Learning](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Face_Mask_Detection_using_Transfer_Learning/Face_Mask_Detection_using_Transfer_Learning.ipynb)
+* 
+
+1. [Face_Mask_Detection_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Face_Mask_Detection_with_VGG16/Face_Mask_Detection_with_VGG16.ipynb)
 
 * 
 
@@ -12,7 +14,7 @@
 
 * 
 
-3. [Fashion_MNIST_with_Deep_Learning](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Fashion_MNIST_with_Deep_Learning/Fashion_MNIST_with_Deep_Learning.ipynb)
+3. [Fashion_MNIST_with_CNN(s)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Fashion_MNIST_with_CNN(s)/Fashion_MNIST_with_CNN(s).ipynb)
 
 * 
 
@@ -20,7 +22,7 @@
 
 * 
 
-5. [Image_Captioning_with_Flickr30k](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Captioning_with_Flickr30k/Image_Captioning_with_Flickr30k.ipynb)
+5. [Image_Captioning_with_Flickr30k_and_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Captioning_with_Flickr30k_and_VGG16/Image_Captioning_with_Flickr30k_and_VGG16.ipynb)
 
 * 
 
@@ -36,7 +38,7 @@
 
 * 
 
-2. [NLP___Next_Word_Prediction](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/NLP___Next_Word_Prediction)
+2. [Next_Word_Prediction_with_Bidirectional_LSTM](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Next_Word_Prediction_with_Bidirectional_LSTM/Next_Word_Prediction_with_Bidirectional_LSTM.ipynb)
 
 * 
 
@@ -52,15 +54,15 @@
 
 * 
 
-0. [Other_Notebooks/0_AutoML___A_Brief_Introduction.ipynb](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/0_AutoML___A_Brief_Introduction.ipynb)
+1. [Ai_Imagining_Stories_from_Images](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/Ai_Imagining_Stories_from_Images.ipynb)
 
 * 
 
-1. [Other_Notebooks/1_Ai_Imagining_Stories_from_Images.ipynb](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/1_Ai_Imagining_Stories_from_Images.ipynb)
+2. [Ai_Long_form_Story_Generator_with_Varied_Context](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/Ai_Long_form_Story_Generator_with_Varied_Context.ipynb)
 
 * 
 
-2. [Other_Notebooks/2_Ai_Long_form_Story_Generator_with_Varied_Context.ipynb](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/2_Ai_Long_form_Story_Generator_with_Varied_Context.ipynb)
+3. [AutoML___A_Brief_Introduction](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Other_Notebooks/AutoML___A_Brief_Introduction.ipynb)
 
 * 
 
