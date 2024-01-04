@@ -1,6 +1,6 @@
 # Ai_Projects___Topic_and_Code_Explained
 
-* 
+* This `Public Template` repository consists of all of [@sanskarGupta551](https://github.com/sanskarGupta551)'s Projects.
 
 ## A. Computer Vision 
 
