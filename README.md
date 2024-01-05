@@ -37,7 +37,7 @@
 
 ## B. Natural Language Processing
 
-* 
+* This section consists of Projects built with the purpose of `Learning and Understanding` Applications of `Natural Language Processing` to solve Real World Problems.
 
 1. [GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis/GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis.ipynb)
 
