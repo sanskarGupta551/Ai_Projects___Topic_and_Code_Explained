@@ -9,7 +9,7 @@
 
 ## A. Computer Vision 
 
-* 
+* This section consists of Projects built with the purpose of `Learning` and `Understanding` `Applications` of `Computer Vision` to solve Real World Problems.
 
 1. [Face_Mask_Detection_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Face_Mask_Detection_with_VGG16/Face_Mask_Detection_with_VGG16.ipynb)
 
