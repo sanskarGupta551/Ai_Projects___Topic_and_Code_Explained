@@ -3,7 +3,7 @@
 * This `Public Template` repository consists of all of [@sanskarGupta551](https://github.com/sanskarGupta551)'s Projects since Year `2023`.
 
 * All Projects will have -
-    1. A `Jupyter Notebook` Explaining the Topic and the Coe Implementation.
+    1. A `Jupyter Notebook` Explaining the Topic and the Code Implementation.
      and optinally,
     2. `End Results` in the form of Python Scripts, Apps, Images or Video Links `if possible`.
 
