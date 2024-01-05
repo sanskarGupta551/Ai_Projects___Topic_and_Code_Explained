@@ -1,10 +1,11 @@
 # Ai_Projects___Topic_and_Code_Explained
 
 * This `Public Template` repository consists of all of [@sanskarGupta551](https://github.com/sanskarGupta551)'s Projects since Year `2023`.
+
 * All Projects will have -
-    * a Jupyter Notebook
-    * Python Script if necessary
-    * link to other files needed to showcase the Project results too big to store on Github 
+    1. A `Jupyter Notebook` Explaining the Topic and the Coe Implementation.
+     and optinally,
+    2. `End Results` in the form of Python Scripts, Apps, Images or Video Links `if possible`.
 
 
 ## A. Computer Vision 
