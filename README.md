@@ -4,7 +4,7 @@
 
 * All Projects will have -
     1. A `Jupyter Notebook` Explaining the Topic and the Code Implementation.
-And optinally,
+    * And optinally,
     3. `End Results` in the form of Python Scripts, Apps, Images or Video Links `if possible`.
 
 
