@@ -1,6 +1,6 @@
 # Ai_Projects___Topic_and_Code_Explained
 
-* This `Public Template` repository consists of all of [@sanskarGupta551](https://github.com/sanskarGupta551)'s Projects since Year `2022`.
+* This `Public Template` repository consists of all of [@sanskarGupta551](https://github.com/sanskarGupta551)'s Projects since `Year 2022`.
 
 * All Projects will have -
     1. A `Jupyter Notebook` Explaining the Topic and the Code Implementation, `and`
