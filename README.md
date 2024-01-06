@@ -11,10 +11,13 @@
 * This section consists of Projects built with the purpose of `Learning and Understanding` Applications of `Computer Vision` to solve Real World Problems.
 
 1. [Face_Mask_Detection_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Face_Mask_Detection_with_VGG16/Face_Mask_Detection_with_VGG16.ipynb)
+
 * `Face Mask Detection` is a system that uses `Computer Vision` and Deep Learning to determine whether a person is wearing a `mask` or not.
 * Here, we will Build a `Face Mask Detection` model using `CNNs`(Convolutional Neural Networks) and a `VGG16` head, then Train it using `Transfer Learning`.
 * At last, we will load the `Best Model` saved using our pre-defined `Callback` and `Test` our model on `Unseen Data`.
 * `Dataset` - [Face Mask Detection ~12K Images Dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) from Kaggle.
+
+![Image](https://www.intertecsystems.com/wp-content/uploads/2020/05/face-mask-detection-software-e1591538656411.png)
 
 2. [Facial_Emotion_Recognition_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Facial_Emotion_Recognition_with_VGG16/Facial_Emotion_Recognition_with_VGG16.ipynb)
 * 
