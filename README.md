@@ -22,7 +22,7 @@
 2. [Facial_Emotion_Recognition_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Facial_Emotion_Recognition_with_VGG16/Facial_Emotion_Recognition_with_VGG16.ipynb)
 
 * `Facial Emotion Recognition` (FER) is a subfield of Facial Recognition that involves `identifying` and categorizing `Human Emotions` based on Facial expressions.
-* Here, we Build a `Facial Emotion Recognition` model by loading the `VGG16` base trained on `Imagenet` without thr Top layer, `Adapt` it to our current problem, and Train it using `Transfer Learning` on our Dataset. 
+* Here, we Build a `Facial Emotion Recognition` model by loading the [VGG16](https://www.tensorflow.org/api_docs/python/tf/keras/applications/vgg16/VGG16) base trained on `Imagenet` without thr Top layer, `Adapt` it to our current problem, and Train it using `Transfer Learning` on our Dataset. 
 * Then, we load the `Best Model` saved using our pre-defined `Callback` and `Test` our model on a few `Images`.
 * At last, we test our Model on `Videos` with added complexity of [Haar Cascade](https://docs.opencv.org/3.4/d2/d99/tutorial_js_face_detection.html) to improve `Model Accuracy`.
 * `Dataset` - [FER2013 Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) from Kaggle.
