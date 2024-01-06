@@ -14,6 +14,7 @@
 
 * `Face Mask Detection` is a system that uses `Computer Vision` and Deep Learning to determine whether a person is wearing a `mask` or not.
 * Here, we will Build a `Face Mask Detection` model using `CNNs`(Convolutional Neural Networks) and a `VGG16` head, then Train it using `Transfer Learning`.
+* At last, we will load the `Best Model` saved using our pre-defined `Callback` and `Test` our model on `Unseen Data`.
 * `Dataset` - [Face Mask Detection ~12K Images Dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) from Kaggle.
 
 2. [Facial_Emotion_Recognition_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Facial_Emotion_Recognition_with_VGG16/Facial_Emotion_Recognition_with_VGG16.ipynb)
