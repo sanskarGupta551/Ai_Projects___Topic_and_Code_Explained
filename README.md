@@ -23,6 +23,7 @@
 
 * `Facial emotion recognition` (FER) is a subfield of Facial Recognition that involves `identifying` and categorizing `human emotions` based on facial expressions.
 * 
+* `Dataset` - [FER2013 Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) from Kaggle.
 
 ![Image](https://i.pinimg.com/originals/b0/bb/1d/b0bb1d0b86bdca1de8ead928064d09d8.png)
 
