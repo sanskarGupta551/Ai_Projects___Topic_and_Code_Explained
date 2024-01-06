@@ -1,38 +1,46 @@
 # Ai_Projects___Topic_and_Code_Explained
 
-* 
+* This `Public Template` repository consists of all of [@sanskarGupta551](https://github.com/sanskarGupta551)'s Projects since `Year 2022`.
+
+* All Projects will have -
+    1. A `Jupyter Notebook` Explaining the Topic and the Code Implementation, `and`
+    2. `End Results` in the form of Python Scripts, Apps, Images or Video Links `if possible`.
 
 ## A. Computer Vision 
 
-* 
+* This section consists of Projects built with the purpose of `Learning and Understanding` Applications of `Computer Vision` to solve Real World Problems.
 
 1. [Face_Mask_Detection_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Face_Mask_Detection_with_VGG16/Face_Mask_Detection_with_VGG16.ipynb)
 
-* 
+* `Face Mask Detection` is a system that uses `Computer Vision` and Deep Learning to determine whether a person is wearing a `mask` or not.
+* Here, we will Build a `Face Mask Detection` model using `CNNs`(Convolutional Neural Networks) and a `VGG16` head, then Train it using `Transfer Learning`.
+* At last, we will load the `Best Model` saved using our pre-defined `Callback` and `Test` our model on `Unseen Data`.
+* `Dataset` - [Face Mask Detection ~12K Images Dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) from Kaggle.
+
+![Image](https://www.intertecsystems.com/wp-content/uploads/2020/05/face-mask-detection-software-e1591538656411.png)
 
 2. [Facial_Emotion_Recognition_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Facial_Emotion_Recognition_with_VGG16/Facial_Emotion_Recognition_with_VGG16.ipynb)
 
+* `Facial emotion recognition` (FER) is a subfield of Facial Recognition that involves `identifying` and categorizing `human emotions` based on facial expressions.
 * 
 
-3. [Fashion_MNIST_with_CNN(s)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Fashion_MNIST_with_CNN(s)/Fashion_MNIST_with_CNN(s).ipynb)
+![Image](https://i.pinimg.com/originals/b0/bb/1d/b0bb1d0b86bdca1de8ead928064d09d8.png)
 
+3. [Fashion_MNIST_with_CNN(s)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Fashion_MNIST_with_CNN(s)/Fashion_MNIST_with_CNN(s).ipynb)
 * 
 
 4. [Green_Screening_Images_and_Videos_with_OpenCV](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Green_Screening_Images_and_Videos_with_OpenCV/Green_Screening_Images_and_Videos_with_OpenCV.ipynb)
-
-* 
+*  
 
 5. [Image_Captioning_with_Flickr30k_and_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Captioning_with_Flickr30k_and_VGG16/Image_Captioning_with_Flickr30k_and_VGG16.ipynb)
-
 * 
 
 6. [Image_Deblurring_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Deblurring_with_VGG16/Image_Deblurring_with_VGG16.ipynb)
-
 * 
 
 ## B. Natural Language Processing
 
-* 
+* This section consists of Projects built with the purpose of `Learning and Understanding` Applications of `Natural Language Processing` to solve Real World Problems.
 
 1. [GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis/GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis.ipynb)
 
