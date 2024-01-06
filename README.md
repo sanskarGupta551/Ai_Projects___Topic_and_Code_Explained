@@ -13,7 +13,7 @@
 1. [Face_Mask_Detection_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Face_Mask_Detection_with_VGG16/Face_Mask_Detection_with_VGG16.ipynb)
 
 * `Face Mask Detection` is a system that uses `Computer Vision` and Deep Learning to determine whether a person is wearing a `mask` or not.
-* Here, we Build a `Face Mask Detection` model using `CNNs`(Convolutional Neural Networks) and a `VGG16` base, then Train it using `Transfer Learning`.
+* Here, we Build a `Face Mask Detection` model using `CNNs`(Convolutional Neural Networks) and a `VGG16` base, then Train it using `Transfer Learning` on our Dataset.
 * At last, we load the `Best Model` saved using our pre-defined `Callback` and `Test` our model on `Unseen Data`.
 * `Dataset` - [Face Mask Detection ~12K Images Dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) from Kaggle.
 
@@ -22,8 +22,9 @@
 2. [Facial_Emotion_Recognition_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Facial_Emotion_Recognition_with_VGG16/Facial_Emotion_Recognition_with_VGG16.ipynb)
 
 * `Facial Emotion Recognition` (FER) is a subfield of Facial Recognition that involves `identifying` and categorizing `Human Emotions` based on Facial expressions.
-* Here, we Build a `Facial Emotion Recognition` model by loading the `VGG16` base trained on `Imagenet`, remove the last layer and `Adapt` it to our current problem. 
-* At last, we load the `Best Model` saved using our pre-defined `Callback` and `Test` our model on `Unseen Data`.
+* Here, we Build a `Facial Emotion Recognition` model by loading the `VGG16` base trained on `Imagenet` without thr Top layer, `Adapt` it to our current problem, and Train it using `Transfer Learning` on our Dataset. 
+* Then, we load the `Best Model` saved using our pre-defined `Callback` and `Test` our model on a few `Images`.
+* At last, we test our Model on `Videos` with added complexity of `Haar Cascade` to improve Model Accuracy.
 * `Dataset` - [FER2013 Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) from Kaggle.
 
 ![Image](https://i.pinimg.com/originals/b0/bb/1d/b0bb1d0b86bdca1de8ead928064d09d8.png)
