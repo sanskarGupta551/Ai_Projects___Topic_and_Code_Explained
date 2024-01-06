@@ -24,7 +24,7 @@
 * `Facial emotion recognition` (FER) is a subfield of Facial Recognition that involves `identifying` and categorizing `human emotions` based on facial expressions.
 * 
 
-![Image](https://th.bing.com/th/id/OIP.Blw-iWsVXprzMvQ0s1rXigAAAA?pid=ImgDet&w=152&h=152&c=7&dpr=1.5)
+![Image](https://i.pinimg.com/originals/b0/bb/1d/b0bb1d0b86bdca1de8ead928064d09d8.png)
 
 3. [Fashion_MNIST_with_CNN(s)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Fashion_MNIST_with_CNN(s)/Fashion_MNIST_with_CNN(s).ipynb)
 * 
