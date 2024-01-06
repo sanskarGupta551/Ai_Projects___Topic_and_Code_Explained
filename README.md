@@ -12,7 +12,8 @@
 
 1. [Face_Mask_Detection_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Face_Mask_Detection_with_VGG16/Face_Mask_Detection_with_VGG16.ipynb)
 
-    * 
+* `Face Mask Detection` is a system that uses `Computer Vision` and Deep Learning to determine whether a person is wearing a `mask` or not.
+    * `Dataset` - [Face Mask Detection ~12K Images Dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) from Kaggle.
 
 2. [Facial_Emotion_Recognition_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Facial_Emotion_Recognition_with_VGG16/Facial_Emotion_Recognition_with_VGG16.ipynb)
 
