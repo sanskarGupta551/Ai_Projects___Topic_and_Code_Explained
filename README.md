@@ -74,6 +74,8 @@
 
 * 
 
+![Image](https://i.pinimg.com/originals/e1/d0/33/e1d0330eb3bfd698f6c332e0d61f6d11.png)
+
 2. [Next_Word_Prediction_with_Bidirectional_LSTM](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Next_Word_Prediction_with_Bidirectional_LSTM/Next_Word_Prediction_with_Bidirectional_LSTM.ipynb)
 
 * 
