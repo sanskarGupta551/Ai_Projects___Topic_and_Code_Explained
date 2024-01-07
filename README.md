@@ -42,7 +42,7 @@
 
 * `Green Screening` is a technique that allows you to place any `Background` picture you want `behind` the performers or the `Foreground`.
 * Here, we first `Understand` how `Green Screening` works with the help of a `Computer Vision` library [OpenCV](https://opencv.org/) using different `Images` as Foreground and Background.
-* Then, we 
+* Then, we will perform `Green Screening` of a `Video` of `Steve Dancing` with a few different `Videos` sewed together as Background. 
 * `Dataset` - None.
 
 ![Image](https://i.ytimg.com/vi/JfyzwWgZT4M/maxresdefault.jpg)
