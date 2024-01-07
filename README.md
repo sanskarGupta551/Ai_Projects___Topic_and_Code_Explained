@@ -49,6 +49,7 @@
 
 5. [Image_Captioning_with_Flickr30k_and_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Captioning_with_Flickr30k_and_VGG16/Image_Captioning_with_Flickr30k_and_VGG16.ipynb)
 
+* `Image Captioning` is the task of `describing` the content of an `Image` in words.
 * 
 * `Dataset` - [Flickr30k](https://www.kaggle.com/datasets/eeshawn/flickr30k/data)
 
@@ -56,6 +57,7 @@
 
 6. [Image_Deblurring_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Deblurring_with_VGG16/Image_Deblurring_with_VGG16.ipynb)
 
+* `Image Deblurring` is a process of `restoring` a sharp image from a `blurred` input `Image`.
 * 
 * `Dataset` - `Built from Scratch`.
 
