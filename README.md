@@ -39,12 +39,20 @@
 ![Image](https://thiagolcmelo.github.io/assets/img/fashion-mnist.png)
 
 4. [Green_Screening_Images_and_Videos_with_OpenCV](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Green_Screening_Images_and_Videos_with_OpenCV/Green_Screening_Images_and_Videos_with_OpenCV.ipynb)
-*  
+
+* `Green Screening` is a technique that allows you to place any `Background` picture you want `behind` the performers or the `Foreground`.
+* Here, we first `Understand` how `Green Screening` works with the help of a `Computer Vision` library [OpenCV](https://opencv.org/) using different `Images` as Foreground and Background.
+* Then, we will perform `Green Screening` of a `Video` of `Steve Dancing` with a few different `Videos` sewed together as Background. 
+* `Dataset` - None.
+
+![Image](https://i.ytimg.com/vi/JfyzwWgZT4M/maxresdefault.jpg)
 
 5. [Image_Captioning_with_Flickr30k_and_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Captioning_with_Flickr30k_and_VGG16/Image_Captioning_with_Flickr30k_and_VGG16.ipynb)
+
 * 
 
 6. [Image_Deblurring_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Deblurring_with_VGG16/Image_Deblurring_with_VGG16.ipynb)
+
 * 
 
 ## B. Natural Language Processing
