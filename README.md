@@ -43,7 +43,7 @@
 * `Green Screening` is a technique that allows you to place any `Background` picture you want `behind` the performers or the `Foreground`.
 * Here, we first `Understand` how `Green Screening` works with the help of a `Computer Vision` library [OpenCV](https://opencv.org/) using different `Images` as Foreground and Background.
 * Then, we will perform `Green Screening` of a `Video` of `Steve Dancing` with a few different `Videos` sewed together as Background. 
-* `Dataset` - None.
+* `Dataset` - `None`.
 
 ![Image](https://i.ytimg.com/vi/JfyzwWgZT4M/maxresdefault.jpg)
 
@@ -57,7 +57,7 @@
 6. [Image_Deblurring_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Deblurring_with_VGG16/Image_Deblurring_with_VGG16.ipynb)
 
 * 
-* `Dataset` - `Built from Scratch`
+* `Dataset` - `Built from Scratch`.
 
 ![Image](https://th.bing.com/th/id/R.1c95a17451c44bb937d2275bc6ae14d9?rik=FClK479meeWRPA&riu=http%3a%2f%2fwww.ece.northwestern.edu%2flocal-apps%2fmatlabhelp%2ftoolbox%2fimages%2fdeblu10a.gif&ehk=VTBAkwI%2bK%2b2lqG5JtdUoByh24GOJfmcoo8RGX8xAyiY%3d&risl=&pid=ImgRaw&r=0)
 
