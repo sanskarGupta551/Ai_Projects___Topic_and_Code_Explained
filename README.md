@@ -47,7 +47,7 @@
 
 ![Image](https://i.ytimg.com/vi/JfyzwWgZT4M/maxresdefault.jpg)
 
-5. [Image_Captioning_with_Flickr30k](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Captioning_with_Flickr30k_and_VGG16/Image_Captioning_with_Flickr30k.ipynb)
+5. [Image_Captioning_with_Flickr30k](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Captioning_with_Flickr30k/Image_Captioning_with_Flickr30k.ipynb)
 
 * `Image Captioning` is the task of `describing` the content of an `Image` in words.
 * Here, we build an `Encoder Model` using `LSTM` (Long-Short Term Memory), which is a type of `RNN` (Recurrent Neural Network), and `Train` it on our pre-processed Dataset.
