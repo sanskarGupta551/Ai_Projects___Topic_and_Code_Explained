@@ -30,7 +30,11 @@
 ![Image](https://i.pinimg.com/originals/b0/bb/1d/b0bb1d0b86bdca1de8ead928064d09d8.png)
 
 3. [Fashion_MNIST_with_CNN(s)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Fashion_MNIST_with_CNN(s)/Fashion_MNIST_with_CNN(s).ipynb)
-* 
+
+* [Fashion MNIST](https://keras.io/api/datasets/fashion_mnist/) is a `Image Classification` dataset with `28x28` grayscale images of `10` Fashion categories.
+* This is a classic `Computer Vision` problem, often one of the first 
+* Here, we will build a` Deep Learning model` using `Convolutional Neural Networks (CNNs)` to solve this Image Classification problem.
+* `Dataset` - [Fashion MNIST](https://keras.io/api/datasets/fashion_mnist/) from Keras.
 
 4. [Green_Screening_Images_and_Videos_with_OpenCV](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Green_Screening_Images_and_Videos_with_OpenCV/Green_Screening_Images_and_Videos_with_OpenCV.ipynb)
 *  
