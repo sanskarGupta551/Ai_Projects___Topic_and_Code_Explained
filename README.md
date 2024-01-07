@@ -110,23 +110,26 @@
 
 * 
 
-2. [Computer_Vision___Ingredient_to_Recipe_Search_Engine](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ingredient_to_Recipe_Search_Engine)
+## E. Future Projects
+
+
+1. [Computer_Vision___Ingredient_to_Recipe_Search_Engine](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ingredient_to_Recipe_Search_Engine)
 
 * 
 
-3. [Computer_Vision___Ai_Multi_media_Generator](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ai_Multi_media_Generator)
+2. [Computer_Vision___Ai_Multi_media_Generator](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ai_Multi_media_Generator)
 
 * 
 
-4. [Computer_Vision___Face_Swapper](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Face_Swapper)
+3. [Computer_Vision___Face_Swapper](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Face_Swapper)
 
 * 
 
-5. [NLP___Long_form_Story_Generator_using_Deep_Learning](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/NLP___Long_form_Story_Generator_using_Deep_Learning)
+4. [NLP___Long_form_Story_Generator_using_Deep_Learning](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/NLP___Long_form_Story_Generator_using_Deep_Learning)
 
 * 
 
-6. [Computer_Vision___Ai_Comic_Generator](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ai_Comic_Generator)
+5. [Computer_Vision___Ai_Comic_Generator](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ai_Comic_Generator)
 
 * 
 
