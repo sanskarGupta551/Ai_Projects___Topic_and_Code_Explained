@@ -13,21 +13,30 @@
 1. [Face_Mask_Detection_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Face_Mask_Detection_with_VGG16/Face_Mask_Detection_with_VGG16.ipynb)
 
 * `Face Mask Detection` is a system that uses `Computer Vision` and Deep Learning to determine whether a person is wearing a `mask` or not.
-* Here, we will Build a `Face Mask Detection` model using `CNNs`(Convolutional Neural Networks) and a `VGG16` head, then Train it using `Transfer Learning`.
-* At last, we will load the `Best Model` saved using our pre-defined `Callback` and `Test` our model on `Unseen Data`.
+* Here, we Build a `Face Mask Detection` model using `CNNs`(Convolutional Neural Networks) and a [VGG16](https://www.tensorflow.org/api_docs/python/tf/keras/applications/vgg16/VGG16) base, then Train it using `Transfer Learning` on our Dataset.
+* At last, we load the `Best Model` saved using our pre-defined `Callback` and `Test` our model on `Unseen Data`.
 * `Dataset` - [Face Mask Detection ~12K Images Dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) from Kaggle.
 
 ![Image](https://www.intertecsystems.com/wp-content/uploads/2020/05/face-mask-detection-software-e1591538656411.png)
 
 2. [Facial_Emotion_Recognition_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Facial_Emotion_Recognition_with_VGG16/Facial_Emotion_Recognition_with_VGG16.ipynb)
 
-* `Facial emotion recognition` (FER) is a subfield of Facial Recognition that involves `identifying` and categorizing `human emotions` based on facial expressions.
-* 
+* `Facial Emotion Recognition` (FER) is a subfield of Facial Recognition that involves `identifying` and categorizing `Human Emotions` based on Facial expressions.
+* Here, we Build a `Facial Emotion Recognition` model by loading the [VGG16](https://www.tensorflow.org/api_docs/python/tf/keras/applications/vgg16/VGG16) base trained on `Imagenet` without thr Top layer, `Adapt` it to our current problem, and Train it using `Transfer Learning` on our Dataset. 
+* Then, we load the `Best Model` saved using our pre-defined `Callback` and `Test` our model on a few `Images`.
+* At last, we test our Model on `Videos` with added complexity of [Haar Cascade](https://docs.opencv.org/3.4/d2/d99/tutorial_js_face_detection.html) to improve `Model Accuracy`.
+* `Dataset` - [FER2013 Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) from Kaggle.
 
 ![Image](https://i.pinimg.com/originals/b0/bb/1d/b0bb1d0b86bdca1de8ead928064d09d8.png)
 
 3. [Fashion_MNIST_with_CNN(s)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Fashion_MNIST_with_CNN(s)/Fashion_MNIST_with_CNN(s).ipynb)
-* 
+
+* [Fashion MNIST](https://keras.io/api/datasets/fashion_mnist/) is a `Image Classification` dataset with `28x28` grayscale images of `10` Fashion categories.
+* This is a classic `Computer Vision` problem, often one of the first projects built by any `Computer Vision` enthusiast.
+* Here, we will build a` Deep Learning model` using `Convolutional Neural Networks (CNNs)` to solve this Image Classification problem.
+* `Dataset` - [Fashion MNIST](https://keras.io/api/datasets/fashion_mnist/) from Keras.
+
+![Image](https://thiagolcmelo.github.io/assets/img/fashion-mnist.png)
 
 4. [Green_Screening_Images_and_Videos_with_OpenCV](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Green_Screening_Images_and_Videos_with_OpenCV/Green_Screening_Images_and_Videos_with_OpenCV.ipynb)
 *  
