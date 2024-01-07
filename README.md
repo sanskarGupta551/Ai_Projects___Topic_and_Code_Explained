@@ -59,7 +59,9 @@
 6. [Image_Deblurring_with_VGG16](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Deblurring_with_VGG16/Image_Deblurring_with_VGG16.ipynb)
 
 * `Image Deblurring` is a process of `restoring` a sharp image from a `blurred` input `Image`.
-* Here, we first `Build` a Mixed Blur `Dataset` from `Scratch`, preprocess it
+* Here, we first `Build` a Mixed Blur `Dataset` from `Scratch`.
+* Then we build a Model using [VGG16](https://www.tensorflow.org/api_docs/python/tf/keras/applications/vgg16/VGG16) and `Train` it on our Dataset.
+* At last, we will `Evaluate Accuracy` of our Model and `Test` it on a few `Images`.
 * `Dataset` - `Built from Scratch`.
 
 ![Image](https://th.bing.com/th/id/R.1c95a17451c44bb937d2275bc6ae14d9?rik=FClK479meeWRPA&riu=http%3a%2f%2fwww.ece.northwestern.edu%2flocal-apps%2fmatlabhelp%2ftoolbox%2fimages%2fdeblu10a.gif&ehk=VTBAkwI%2bK%2b2lqG5JtdUoByh24GOJfmcoo8RGX8xAyiY%3d&risl=&pid=ImgRaw&r=0)
