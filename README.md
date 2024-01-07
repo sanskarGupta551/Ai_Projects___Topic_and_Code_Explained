@@ -36,6 +36,8 @@
 * Here, we will build a` Deep Learning model` using `Convolutional Neural Networks (CNNs)` to solve this Image Classification problem.
 * `Dataset` - [Fashion MNIST](https://keras.io/api/datasets/fashion_mnist/) from Keras.
 
+![Image](https://thiagolcmelo.github.io/assets/img/fashion-mnist.png)
+
 4. [Green_Screening_Images_and_Videos_with_OpenCV](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Green_Screening_Images_and_Videos_with_OpenCV/Green_Screening_Images_and_Videos_with_OpenCV.ipynb)
 *  
 
