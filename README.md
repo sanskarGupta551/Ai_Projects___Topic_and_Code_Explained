@@ -132,9 +132,11 @@
 
 * This section consists of `Upcoming` Projects that are still `under work`.
 
-1. [(Building)Portfolio_Project___Authentic_Audience](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/(Building)Portfolio_Project___Authentic_Audience)
+1. [(Building)Portfolio_Project___Live_Authentic_Audience](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/(Building)Portfolio_Project___Live_Authentic_Audience)
 
 * 
+
+![Image](https://i1.wp.com/voiceable.ai/wp-content/uploads/2016/12/cropped-audience.jpg?ssl=1)
 
 ## E. Future Projects
 
