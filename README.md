@@ -110,11 +110,13 @@
 
 ## C. Theory Notebooks
 
-* 
+* This section consists of simple and easy Notebooks based on `Random Ideas`, `Introductions`, `Documentations`, etc.
 
 1. [Ai_Imagining_Stories_from_Images](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Theory_Notebooks/Ai_Imagining_Stories_from_Images.ipynb)
 
-* 
+* **A picture is worth a Thousand words.**
+* In this project, we setup an `AI` system that can generate imaginative and engaging `stories` based on input `images`.
+* Then, we discuss some other `Applications` in various `Real World Scenarios`.
 
 2. [Ai_Long_form_Story_Generator_with_Varied_Context](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Theory_Notebooks/Ai_Long_form_Story_Generator_with_Varied_Context.ipynb)
 
