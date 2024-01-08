@@ -130,7 +130,7 @@
 
 ## D. Upcoming Projects
 
-* 
+* This section consists of `Upcoming` Projects that are still `under work`.
 
 1. [(Building)Portfolio_Project___Authentic_Audience](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/(Building)Portfolio_Project___Authentic_Audience)
 
@@ -138,6 +138,7 @@
 
 ## E. Future Projects
 
+* This section consists of `Future` Projects that are `next in line` to be worked upon.
 
 1. [Computer_Vision___Ingredient_to_Recipe_Search_Engine](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ingredient_to_Recipe_Search_Engine)
 
