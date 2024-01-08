@@ -72,7 +72,8 @@
 
 1. [GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis/GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis.ipynb)
 
-* 
+* `Data Preprocessing Pipelines` are an efficient and organized way of handling `raw data`. They can be `specialized` for specific tasks, and once created, automate the entire process.
+* This notebook is a walkthrough of `How to create a Data Preprocessing Pipeline`, where `Data` is the `Text`, in our case more complicated `GenZ Tweets`.
 * `Dataset` - `None`.
 
 ![Image](https://i.pinimg.com/originals/e1/d0/33/e1d0330eb3bfd698f6c332e0d61f6d11.png)
