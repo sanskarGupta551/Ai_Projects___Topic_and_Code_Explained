@@ -88,15 +88,23 @@
 
 ![Image](https://i.pinimg.com/originals/3f/b4/2e/3fb42e1f042063e0423496529978dd8e.jpg)
 
-3. [Prompt_to_Synopsis_Generator_(using_Transfer_Learning)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Prompt_to_Plot_Summary_Generator/Prompt_to_Synopsis_Generator_(using_Transfer_Learning).ipynb)
+3. [Prompt_to_Synopsis_Generator_(using_Transfer_Learning)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Prompt_to_Plot_Summary_Generator_(Fine-Tuning)/Prompt_to_Synopsis_Generator_(Fine-Tuning).ipynb)
 
-* 
+* A `Synopsis` is a brief `summary` of the `main plot` points of a written work, such as an article, essay, story, book, or other written work.
+* It provides a `general overview` of the work and may also include a thematic statement.
+* In this Notebook, we `Train` a `Synopsis Generator` model by `Fine-Tuning` a pre-trained model to generate `Synopsis` using `Prompts`.
+* At last, we will `Generate Synopsis` using some `Text`.
+* `Dataset` - [MPST: Movie Plot Synopses with Tags](https://www.kaggle.com/datasets/cryptexcode/mpst-movie-plot-synopses-with-tags)
 
 ![Image](https://th.bing.com/th/id/R.62fed4c6ba6af08871ed40c89f4d0a44?rik=bHeTpfghWffTSQ&riu=http%3a%2f%2fsusancushman.com%2fwp-content%2fuploads%2f2012%2f10%2f100_12691.jpg&ehk=u%2fiowcjKxXZcabvS21Q2ExLG0g6YsIK6vJcgkcE7Xxc%3d&risl=&pid=ImgRaw&r=0)
 
 4. [Tweets_Sentiment_Analysis_with_3_Neural_Network](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Tweets_Sentiment_Ananlysis_with_3_Neural_Networks/Tweets_Sentiment_Analysis_with_3_Neural_Network.ipynb)
 
-* 
+* `Sentiment Analysis` is a technique in NLP that aims to `classify` the mood or `mentality` expressed in a block of `text` as positive, negative, or neutral.
+* A `Deep Neural Network` (DNN) is an Artificial Neural Network (ANN) with `multiple layers` between the `input` and `output` layers.
+* In this project, we `Build` and `Train` 3 Deep Neural Networks for `Sentiment Analysis`.
+* In the end, we `Compare` the `Accuracy` of all `3 Neural Networks`.
+* `Dataset` - [Sentiment Dataset with 1 Million Tweets](https://www.kaggle.com/datasets/tariqsays/sentiment-dataset-with-1-million-tweets)
 
 ![Image](https://www.altexsoft.com/media/2018/09/sentiment_analysis.jpg)
 
