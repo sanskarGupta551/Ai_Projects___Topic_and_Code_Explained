@@ -88,7 +88,7 @@
 
 ![Image](https://i.pinimg.com/originals/3f/b4/2e/3fb42e1f042063e0423496529978dd8e.jpg)
 
-3. [Prompt_to_Synopsis_Generator_(using_Transfer_Learning)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Prompt_to_Plot_Summary_Generator_(Fine-Tuning)/Prompt_to_Synopsis_Generator_(Fine-Tuning).ipynb)
+3. [Prompt_to_Synopsis_Generator_(Fine-Tuning)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Prompt_to_Synopsis_Generator_(Fine-Tuning)/Prompt_to_Synopsis_Generator_(Fine-Tuning).ipynb)
 
 * A `Synopsis` is a brief `summary` of the `main plot` points of a written work, such as an article, essay, story, book, or other written work.
 * It provides a `general overview` of the work and may also include a thematic statement.
