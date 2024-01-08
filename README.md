@@ -120,11 +120,13 @@
 
 2. [Ai_Long_form_Story_Generator_with_Varied_Context](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Theory_Notebooks/Ai_Long_form_Story_Generator_with_Varied_Context.ipynb)
 
-* 
+* In this Notebook, we Perform `Story Generation` by taking in `varied` levels of `Context` as inputs.
+* Then, we `Explore` how `Effective` is consumption of more `Context` in Generating Better Stories.
 
 3. [AutoML___A_Brief_Introduction](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Theory_Notebooks/AutoML___A_Brief_Introduction.ipynb)
 
-* 
+* `AutoML`, short for `Automated Machine Learning`, is an emerging field that `automates` the end-to-end process of applying `Machine Learning` to real-world problems.
+* Here in this Notebook, we have a `Brief Introduction of AutoML`.
 
 ## D. Upcoming Projects
 
