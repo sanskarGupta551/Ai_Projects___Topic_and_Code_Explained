@@ -147,21 +147,17 @@ is wearing a `mask` or not.
 
 1. [Computer_Vision___Ingredient_to_Recipe_Search_Engine](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ingredient_to_Recipe_Search_Engine)
 
-* 
+    * A Web App that takes `Images of Ingredients` you have and writes down a few `different recipe` that you can try with the given `Imgredients`.
 
-2. [Computer_Vision___Ai_Multi_media_Generator](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ai_Multi_media_Generator)
+2. [Computer_Vision___Face_Swapper](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Face_Swapper)
 
-* 
+    * An `Web App` using which you can `Swap your Face` with Another in a `Live` Video, `Recorded` Video, or `Images`.
 
-3. [Computer_Vision___Face_Swapper](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Face_Swapper)
+3. [NLP___Long_form_Story_Generator_using_Deep_Learning](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/NLP___Long_form_Story_Generator_using_Deep_Learning)
 
-* 
+    * A `Web App` where using a `Topic` and little `Context`, one can generate vast amount of `Text`, enough to write a book over any `Point of Interest`.
 
-4. [NLP___Long_form_Story_Generator_using_Deep_Learning](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/NLP___Long_form_Story_Generator_using_Deep_Learning)
+4. [Computer_Vision___Ai_Comic_Generator](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ai_Comic_Generator)
 
-* 
-
-5. [Computer_Vision___Ai_Comic_Generator](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ai_Comic_Generator)
-
-* 
+    * A `Web App` that can generate quality `Comics` using a `Topic`, a bit of `Context`, and some `Art Reference`.
 
