@@ -73,14 +73,16 @@
 1. [GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis/GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis.ipynb)
 
 * `Data Preprocessing Pipelines` are an efficient and organized way of handling `raw data`. They can be `specialized` for specific tasks, and once created, automate the entire process.
-* This notebook is a walkthrough of `How to create a Data Preprocessing Pipeline`, where `Data` is the `Text`, in our case more complicated `GenZ Tweets`.
+* This notebook is a step-by-step process of `How to create a Data Preprocessing Pipeline`, where `Data` is the `Text`, in our case more complicated `GenZ Tweets`.
+* In the end, we will `Apply` this `Pipeline` to some `GenZ Tweets` from a [Sentiment140 dataset](https://www.kaggle.com/datasets/milobele/sentiment140-dataset-1600000-tweets).
 * `Dataset` - `None`.
 
 ![Image](https://i.pinimg.com/originals/e1/d0/33/e1d0330eb3bfd698f6c332e0d61f6d11.png)
 
 2. [Next_Word_Prediction_with_Bidirectional_LSTM](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Next_Word_Prediction_with_Bidirectional_LSTM/Next_Word_Prediction_with_Bidirectional_LSTM.ipynb)
 
-* 
+* `Next Word Prediction` (also called Language Modeling) is the task of `predicting` what `word` comes next. It is one of the fundamental tasks of `NLP`.
+* Here, 
 
 ![Image](https://i.pinimg.com/originals/3f/b4/2e/3fb42e1f042063e0423496529978dd8e.jpg)
 
