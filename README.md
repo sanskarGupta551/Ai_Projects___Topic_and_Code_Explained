@@ -88,7 +88,7 @@
 
 ![Image](https://i.pinimg.com/originals/3f/b4/2e/3fb42e1f042063e0423496529978dd8e.jpg)
 
-3. [Prompt_to_Synopsis_Generator_(using_Transfer_Learning)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Prompt_to_Plot_Summary_Generator_(Fine-Tuning)/Prompt_to_Synopsis_Generator_(Fine-Tuning).ipynb)
+3. [Prompt_to_Synopsis_Generator_(Fine-Tuning)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Prompt_to_Synopsis_Generator_(Fine-Tuning)/Prompt_to_Synopsis_Generator_(Fine-Tuning).ipynb)
 
 * A `Synopsis` is a brief `summary` of the `main plot` points of a written work, such as an article, essay, story, book, or other written work.
 * It provides a `general overview` of the work and may also include a thematic statement.
@@ -110,30 +110,37 @@
 
 ## C. Theory Notebooks
 
-* 
+* This section consists of simple and easy Notebooks based on `Random Ideas`, `Introductions`, `Documentations`, etc.
 
 1. [Ai_Imagining_Stories_from_Images](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Theory_Notebooks/Ai_Imagining_Stories_from_Images.ipynb)
 
-* 
+* **A picture is worth a Thousand words.**
+* In this project, we setup an `AI` system that can generate imaginative and engaging `stories` based on input `images`.
+* Then, we discuss some other `Applications` in various `Real World Scenarios`.
 
 2. [Ai_Long_form_Story_Generator_with_Varied_Context](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Theory_Notebooks/Ai_Long_form_Story_Generator_with_Varied_Context.ipynb)
 
-* 
+* In this Notebook, we Perform `Story Generation` by taking in `varied` levels of `Context` as inputs.
+* Then, we `Explore` how `Effective` is consumption of more `Context` in Generating Better Stories.
 
 3. [AutoML___A_Brief_Introduction](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Theory_Notebooks/AutoML___A_Brief_Introduction.ipynb)
 
-* 
+* `AutoML`, short for `Automated Machine Learning`, is an emerging field that `automates` the end-to-end process of applying `Machine Learning` to real-world problems.
+* Here in this Notebook, we have a `Brief Introduction of AutoML`.
 
 ## D. Upcoming Projects
 
+* This section consists of `Upcoming` Projects that are still `under work`.
+
+1. [(Building)Portfolio_Project___Live_Authentic_Audience](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/(Building)Portfolio_Project___Live_Authentic_Audience)
+
 * 
 
-1. [(Building)Portfolio_Project___Authentic_Audience](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/(Building)Portfolio_Project___Authentic_Audience)
-
-* 
+![Image](https://i1.wp.com/voiceable.ai/wp-content/uploads/2016/12/cropped-audience.jpg?ssl=1)
 
 ## E. Future Projects
 
+* This section consists of `Future` Projects that are `next in line` to be worked upon.
 
 1. [Computer_Vision___Ingredient_to_Recipe_Search_Engine](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/Upcoming_Projects/Computer_Vision___Ingredient_to_Recipe_Search_Engine)
 
