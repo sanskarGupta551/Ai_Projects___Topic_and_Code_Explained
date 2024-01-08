@@ -61,7 +61,7 @@ is wearing a `mask` or not.
 
     * `Image Deblurring` is a process of `restoring` a sharp image from a `blurred` input `Image`.
     * Here, we first `Build` a Mixed Blur `Dataset` from `Scratch`.
-    > Then we build a Model using [VGG16](https://www.tensorflow.org/api_docs/python/tf/keras/applications/vgg16/VGG16) and `Train` it on our custom Blur Dataset.
+    > Then we build a Model using [VGG16](https://www.tensorflow.org/api_docs/python/tf/keras/applications/vgg16/VGG16) base and `Train` it on our custom Blur Dataset.
     * At last, we will `Evaluate Accuracy` of our Model and `Test` it on a few `Images`.
     * `Dataset` - `Built from Scratch`.
 
