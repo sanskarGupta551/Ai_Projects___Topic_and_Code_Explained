@@ -134,7 +134,8 @@
 
 1. [(Building)Portfolio_Project___Live_Authentic_Audience](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/(Building)Portfolio_Project___Live_Authentic_Audience)
 
-* 
+* This is my biggest project yet.
+* In this project, we will build an `AI App` that will see and hear us like an `Audience` and `Generate responses` like an `Authentic Crowd` of Audience in `realtime`. 
 
 ![Image](https://i1.wp.com/voiceable.ai/wp-content/uploads/2016/12/cropped-audience.jpg?ssl=1)
 
