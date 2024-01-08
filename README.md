@@ -135,7 +135,9 @@
 1. [(Building)Portfolio_Project___Live_Authentic_Audience](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/tree/main/(Building)Portfolio_Project___Live_Authentic_Audience)
 
 * This is my biggest project yet.
-* In this project, we will build an `AI App` that will see and hear us like an `Audience` and `Generate responses` like an `Authentic Crowd` of Audience in `realtime`. 
+* In this project, we will build an `AI App` that will see and hear us like an `Audience` and `Generate responses` like an `Authentic Crowd` of Audience in `realtime`.
+* This `AI system` will contain many `AI` tech like - `Speech Emotion Recogntion`, `Facial Emotion Recognition`, `Chatbots` and `Speech Sythesis` (for Heckling), etc.
+* We will make it `User-friendly` by compiling it into an `AI App` by using suitable `Python Libraires` or we can also use other Apps like [Unity3D](https://unity.com) or [Blender3D](https://www.blender.org).
 
 ![Image](https://i1.wp.com/voiceable.ai/wp-content/uploads/2016/12/cropped-audience.jpg?ssl=1)
 
