@@ -82,13 +82,19 @@
 
 * 
 
+![Image](https://i.pinimg.com/originals/3f/b4/2e/3fb42e1f042063e0423496529978dd8e.jpg)
+
 3. [Prompt_to_Synopsis_Generator_(using_Transfer_Learning)](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Prompt_to_Plot_Summary_Generator/Prompt_to_Synopsis_Generator_(using_Transfer_Learning).ipynb)
 
 * 
 
+![Image](https://th.bing.com/th/id/R.62fed4c6ba6af08871ed40c89f4d0a44?rik=bHeTpfghWffTSQ&riu=http%3a%2f%2fsusancushman.com%2fwp-content%2fuploads%2f2012%2f10%2f100_12691.jpg&ehk=u%2fiowcjKxXZcabvS21Q2ExLG0g6YsIK6vJcgkcE7Xxc%3d&risl=&pid=ImgRaw&r=0)
+
 4. [Tweets_Sentiment_Analysis_with_3_Neural_Network](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___Tweets_Sentiment_Ananlysis_with_3_Neural_Networks/Tweets_Sentiment_Analysis_with_3_Neural_Network.ipynb)
 
 * 
+
+![Image](https://www.altexsoft.com/media/2018/09/sentiment_analysis.jpg)
 
 ## C. Theory Notebooks
 
