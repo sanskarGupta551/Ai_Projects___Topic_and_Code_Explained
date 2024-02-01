@@ -161,10 +161,4 @@ is wearing a `mask` or not.
 
     * A `Web App` that can generate quality `Comics` using a `Topic`, a bit of `Context`, and some `Art Reference`.
   
-   [Link](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Green_Screening_Images_and_Videos_with_OpenCV/Green_Screening_Images_and_Videos_with_OpenCV.ipynb)
-   
-   [Link](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/NLP___GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis/GenZ_Tweets_Data_Pipeline_for_Sentiment_Analysis.ipynb)
-   
-   [Link](https://github.com/sanskarGupta551/Ai_Projects___Topic_and_Code_Explained/blob/main/Computer_Vision___Image_Deblurring_with_VGG16/Image_Deblurring_with_VGG16.ipynb)
-   
 
